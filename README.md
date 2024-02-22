@@ -2,7 +2,7 @@
 
 Title: Internhub Landing Page Project 
 
-Internhub is a landing page project created as part of an internship task aimed at providing internship opportunities to students. This project showcases the use of HTML, CSS, and JavaScript to develop a functional and visually appealing landing page for Internhub.
+Internhub is a landing page project created as part of an internship task aimed at providing internship opportunities to students. This project showcases the use of HTML, Tailwind CSS, and JavaScript to develop a functional and visually appealing landing page for Internhub.
 
 Features:
 
